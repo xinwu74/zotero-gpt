@@ -81,6 +81,8 @@ Click on the gear icon at the top right of the window. Click on `Install Add-on 
 
 ### [4] Set up the API key
 
+[Get API key](https://platform.openai.com/api-keys)
+
 ![image](https://github.com/MuiseDestiny/zotero-gpt/assets/51939531/225c468a-acfc-43be-b5ac-cf6aaaa33e96)
 
 ## Hi, Command Tag.
